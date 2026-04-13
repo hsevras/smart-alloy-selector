@@ -1,0 +1,86 @@
+name,category,density_g_cm3,yield_strength_mpa,tensile_strength_mpa,elastic_modulus_gpa,melting_point_c,max_service_temp_c,thermal_conductivity_w_mk,thermal_expansion_ppm_k,electrical_resistivity_ohm_m,corrosion_resistance,machinability,weldability,cost_usd_kg,hardness_hv,fatigue_strength_mpa,printable_3d,notes
+Aluminum 1100,Aluminum Alloy,2.71,34,90,69,657,150,222,23.6,2.82e-8,Excellent,Excellent,Excellent,2.5,23,34,No,Pure aluminum; best corrosion resistance in Al family
+Aluminum 2024-T3,Aluminum Alloy,2.78,345,483,73,502,120,121,23.2,3.44e-8,Fair,Good,Poor,4.2,120,138,No,High strength aerospace alloy; susceptible to corrosion
+Aluminum 6061-T6,Aluminum Alloy,2.70,276,310,69,582,150,167,23.6,3.99e-8,Good,Excellent,Good,3.1,95,97,No,Most versatile aluminum alloy; good all-round properties
+Aluminum 7075-T6,Aluminum Alloy,2.81,503,572,72,477,130,130,23.4,5.22e-8,Fair,Good,Poor,6.0,175,159,No,Highest strength aluminum alloy; aerospace use
+Aluminum 5052-H32,Aluminum Alloy,2.68,193,228,70,607,150,138,23.8,4.99e-8,Excellent,Good,Good,3.3,60,117,No,Marine grade; excellent fatigue and corrosion resistance
+Aluminum 3003-H14,Aluminum Alloy,2.73,145,152,69,643,150,163,23.2,3.45e-8,Excellent,Excellent,Good,2.8,40,55,No,General purpose; cookware and chemical equipment
+AISI 1020 Steel,Carbon Steel,7.87,210,380,200,1515,400,51.9,11.7,1.59e-7,Poor,Excellent,Excellent,0.7,120,200,No,Low carbon steel; cheap and easy to machine
+AISI 1045 Steel,Carbon Steel,7.85,310,565,200,1490,450,49.8,11.2,1.72e-7,Poor,Good,Good,0.9,170,255,No,Medium carbon steel; gears and shafts
+AISI 4130 Steel,Alloy Steel,7.85,360,560,205,1460,450,42.7,11.2,2.23e-7,Fair,Good,Good,1.8,197,300,No,Chromoly steel; aircraft and motorsport
+AISI 4340 Steel,Alloy Steel,7.85,470,745,205,1427,450,44.5,12.3,2.48e-7,Fair,Good,Fair,2.1,217,380,No,High-strength alloy steel; aircraft landing gear
+AISI 316L Stainless,Stainless Steel,8.00,170,485,193,1399,850,16.3,16.0,7.40e-7,Excellent,Good,Excellent,4.5,160,210,No,Medical and food grade; best corrosion resistance
+AISI 304 Stainless,Stainless Steel,8.00,215,505,193,1400,850,16.2,17.2,7.20e-7,Excellent,Good,Good,3.5,155,220,No,Most common stainless steel; kitchen and architecture
+AISI 17-4 PH,Stainless Steel,7.78,1170,1310,197,1404,480,18.4,10.8,8.00e-7,Excellent,Good,Good,8.0,380,550,No,Precipitation hardened; aerospace and oil/gas
+AISI 420 Stainless,Stainless Steel,7.73,415,655,200,1450,400,24.9,10.2,5.50e-7,Good,Good,Poor,3.2,200,280,No,Cutlery grade stainless; hardenable
+Ti-6Al-4V (Grade 5),Titanium Alloy,4.43,880,950,114,1660,315,6.7,8.6,1.78e-6,Excellent,Poor,Fair,45.0,310,510,No,Aerospace titanium; excellent strength-to-weight
+Ti Grade 2,Titanium Alloy,4.51,275,345,105,1665,250,21.9,8.6,5.60e-7,Excellent,Fair,Good,30.0,145,200,No,Commercially pure titanium; chemical processing
+Ti-3Al-2.5V,Titanium Alloy,4.48,483,620,107,1650,290,8.1,8.5,1.65e-6,Excellent,Poor,Fair,38.0,200,320,No,Aircraft hydraulic tubing
+Inconel 625,Nickel Superalloy,8.44,490,930,208,1350,982,9.8,12.8,1.29e-6,Excellent,Poor,Excellent,55.0,265,520,No,Seawater and high-temp corrosion resistant
+Inconel 718,Nickel Superalloy,8.19,1100,1375,200,1336,650,11.4,13.0,1.22e-6,Excellent,Poor,Good,65.0,430,620,No,Jet engine components; excellent high-temp strength
+Hastelloy C-276,Nickel Superalloy,8.89,355,790,205,1371,1040,11.0,11.2,1.30e-6,Excellent,Poor,Good,80.0,220,380,No,Chemical processing; widest corrosion resistance
+Monel 400,Nickel Alloy,8.83,240,550,179,1300,480,21.8,13.9,5.47e-7,Excellent,Good,Good,35.0,175,290,No,Seawater; marine and chemical industry
+Copper C110,Copper,8.94,69,220,117,1083,200,391,17.0,1.72e-8,Good,Excellent,Good,8.5,43,70,No,Electrical grade copper; highest conductivity
+Copper C260 (Brass),Copper Alloy,8.53,100,330,110,915,200,120,20.3,6.20e-8,Good,Excellent,Fair,6.0,65,150,No,Cartridge brass; plumbing and musical instruments
+Copper C932 (Bronze),Copper Alloy,8.93,125,275,103,850,200,72,17.5,1.50e-7,Excellent,Good,Poor,12.0,60,115,No,Bearing bronze; bushings and wear applications
+Beryllium Copper C17200,Copper Alloy,8.25,1100,1380,131,865,200,105,17.8,6.80e-8,Good,Good,Poor,85.0,380,580,No,Highest strength copper; springs and connectors
+Magnesium AZ31B,Magnesium Alloy,1.77,200,260,45,632,150,96,26.0,9.20e-8,Poor,Good,Fair,3.5,56,97,No,Lightest structural metal; aerospace and electronics
+Magnesium AZ91D,Magnesium Alloy,1.81,160,230,45,596,125,72,26.0,1.40e-7,Poor,Good,Poor,4.0,70,100,No,Die casting alloy; auto and electronics
+Zinc Zamak 3,Zinc Alloy,6.60,32,283,83,381,100,113,27.4,6.01e-8,Good,Excellent,Poor,2.2,82,48,No,Die casting; high detail consumer products
+Lead,Pure Metal,11.34,12,18,16,327,150,35,29.1,2.08e-7,Excellent,Good,Poor,2.0,4,8,No,Radiation shielding; batteries
+Cobalt Alloy (Stellite 6),Cobalt Alloy,8.39,690,897,210,1410,900,14.7,12.3,8.90e-7,Excellent,Very Poor,Poor,120,450,450,No,Wear and corrosion resistant; valve seats
+Tungsten Pure,Refractory Metal,19.25,1000,1510,411,3422,2000,173,4.5,5.60e-8,Good,Very Poor,Very Poor,45.0,3430,400,No,Highest melting point metal; furnace elements
+Molybdenum,Refractory Metal,10.28,570,690,329,2623,1700,138,4.8,5.70e-8,Fair,Poor,Poor,55.0,1500,280,No,High-temp structural; electronic packaging
+Niobium,Refractory Metal,8.57,275,310,105,2477,1500,53.7,7.3,1.40e-7,Good,Fair,Good,75.0,130,160,No,Superconductor alloys; nuclear applications
+Tantalum,Refractory Metal,16.69,165,205,186,3017,1600,57.5,6.3,1.35e-7,Excellent,Good,Good,180.0,80,100,No,Chemical equipment; capacitors
+Gold 24K,Precious Metal,19.30,130,220,79,1064,300,318,14.2,2.44e-8,Excellent,Good,Good,65000,25,60,No,Electronics contacts; corrosion-free conductor
+Silver Pure,Precious Metal,10.49,55,170,83,962,200,429,19.7,1.59e-8,Good,Good,Good,800,25,55,No,Highest conductivity metal; contacts
+Platinum,Precious Metal,21.45,125,240,168,1768,1000,71.6,8.8,1.06e-7,Excellent,Good,Good,33000,40,100,No,Catalysts; high-temperature lab equipment
+ABS,Polymer,1.05,40,40,2.3,N/A,80,0.17,90,1e14,Good,Excellent,N/A,3.5,10,20,Yes,Most common 3D print material; good impact resistance
+PLA,Polymer,1.24,55,60,3.5,N/A,60,0.13,68,1e16,Fair,Excellent,N/A,2.8,10,25,Yes,Biodegradable; easiest to print; low temp resistance
+PETG,Polymer,1.27,50,52,2.1,N/A,85,0.29,60,1e15,Good,Excellent,N/A,3.2,10,28,Yes,Excellent clarity; food safe; better heat resistance than PLA
+Nylon PA12,Polymer,1.01,45,50,1.8,N/A,100,0.25,100,1e13,Good,Good,N/A,5.0,10,22,Yes,Flexible; chemical resistant; SLS printing
+PEEK,Polymer,1.32,100,100,3.6,N/A,260,0.25,47,1e16,Excellent,Good,N/A,120.0,30,50,Yes,High-performance polymer; medical implants
+Polycarbonate PC,Polymer,1.20,60,65,2.3,N/A,135,0.20,65,1e16,Good,Good,N/A,4.5,10,28,Yes,Transparent; impact resistant; engineering applications
+Polypropylene PP,Polymer,0.91,25,35,1.5,N/A,90,0.22,150,1e17,Good,Good,N/A,2.0,8,15,Yes,Chemical resistant; living hinges; food containers
+PTFE (Teflon),Polymer,2.20,14,31,0.5,N/A,260,0.25,112,1e18,Excellent,Good,N/A,25.0,5,10,No,Lowest friction polymer; chemical resistant
+Ultem 9085,Polymer,1.34,71,71,2.5,N/A,165,0.22,47,1e17,Good,Good,N/A,350.0,15,40,Yes,Aerospace-grade FDM polymer; flame retardant
+TPU,Polymer,1.21,12,40,0.07,N/A,80,0.25,150,1e11,Good,Excellent,N/A,8.0,5,15,Yes,Flexible rubber-like; phone cases and gaskets
+Carbon Fiber Composite,Composite,1.60,600,700,70,N/A,200,5.0,2.0,1e4,Good,Poor,Poor,80.0,50,350,No,Ultra high stiffness-to-weight; aerospace and racing
+Glass Fiber Composite,Composite,1.90,200,310,20,N/A,180,0.35,14,1e12,Good,Poor,Poor,15.0,40,150,No,Structural composites; boat hulls and wind blades
+Kevlar Composite,Composite,1.44,360,3600,83,N/A,160,0.04,2.0,1e13,Good,Very Poor,Poor,70.0,30,800,No,Ballistic protection; lightweight structural
+Silicon Carbide,Ceramic,3.10,250,350,410,N/A,1600,120,4.0,1e5,Excellent,Very Poor,N/A,200.0,2800,200,No,Extreme hardness; wear resistance; semiconductors
+Alumina Al2O3,Ceramic,3.95,260,300,380,2054,1700,30,7.4,1e14,Excellent,Very Poor,N/A,8.0,1800,220,No,Electrical insulation; high-temp wear parts
+Zirconia ZrO2,Ceramic,6.05,200,800,200,2715,2000,3.0,10.3,1e13,Excellent,Very Poor,N/A,150.0,1300,350,No,Highest toughness ceramic; dental crowns
+Boron Carbide,Ceramic,2.52,400,350,450,2350,1000,30,5.7,1e10,Excellent,Very Poor,N/A,450.0,3000,180,No,Lightest ceramic; nuclear shielding
+Silicon Nitride,Ceramic,3.19,700,690,310,1900,1400,30,3.2,1e13,Excellent,Very Poor,N/A,120.0,1700,500,No,Excellent thermal shock; engine components
+Borosilicate Glass,Glass,2.23,50,70,63,820,500,1.13,3.3,1e12,Excellent,Very Poor,N/A,5.0,600,30,No,Lab glassware; Pyrex; low thermal expansion
+Fused Silica,Glass,2.20,70,110,73,1650,1000,1.38,0.55,1e18,Excellent,Very Poor,N/A,50.0,700,40,No,Lowest thermal expansion glass; optics
+Balsa Wood,Wood,0.12,3,23,3.7,N/A,60,0.05,30,1e13,Poor,Excellent,Fair,1.5,5,12,No,Lightest structural wood; model making
+Oak Wood,Wood,0.72,50,90,12,N/A,80,0.17,5,1e14,Fair,Good,Good,2.0,30,40,No,Hard structural wood; furniture
+Bamboo,Natural,0.70,160,300,20,N/A,70,0.25,5,1e14,Good,Good,Fair,1.0,30,150,No,High tensile strength natural fiber composite
+Bone (Cortical),Biological,1.85,130,150,17,N/A,37,0.56,12,1e9,Fair,N/A,N/A,N/A,30,60,No,Reference biological material; medical benchmarking
+Graphite,Carbon,1.75,20,30,10,N/A,3000,150,7.0,1.4e-5,Good,Excellent,N/A,12.0,50,20,No,Electrodes; lubricant; high temperature use
+Diamond (CVD),Carbon,3.52,1000,N/A,1000,N/A,800,2000,0.8,1e11,Excellent,Very Poor,N/A,3000,10000,N/A,No,Hardest material; thermal management; cutting tools
+Nitinol (55NiTi),Shape Memory,6.45,195,895,83,1300,100,18,11,8.2e-7,Excellent,Very Poor,Poor,250.0,200,350,No,Shape memory alloy; medical stents and actuators
+Invar 36,Low Expansion,8.05,276,490,141,1425,450,10.4,1.3,8.20e-7,Good,Good,Good,35.0,160,220,No,Near-zero thermal expansion; precision instruments
+Kovar,Low Expansion,8.35,275,517,138,1450,450,17.3,5.5,4.90e-7,Good,Good,Good,40.0,170,240,No,Matched to glass/ceramic seals; electronics packaging
+Mu-metal,Magnetic,8.74,170,470,190,1450,350,14.9,12.5,5.80e-7,Fair,Good,Good,60.0,160,200,No,Highest magnetic permeability; EMI shielding
+Permalloy,Magnetic,8.74,170,430,100,1454,300,14.9,12.5,6.00e-7,Fair,Good,Good,50.0,150,180,No,Magnetic sensors; transformer cores
+Elinvar,Elastic Invariant,8.10,700,1000,186,1430,200,10.7,7.0,8.00e-7,Good,Fair,Fair,45.0,300,420,No,Constant elastic modulus; clock springs
+Bismuth,Low-Melt,9.79,12,14,32,271,100,7.9,13.4,1.29e-6,Good,Poor,Poor,15.0,7,6,No,Lowest thermal neutron capture; radiation shielding
+Wood's Metal,Low-Melt,9.72,N/A,N/A,N/A,70,50,20,N/A,5.00e-7,Fair,Good,N/A,25.0,N/A,N/A,No,Melts in hot water; fusible alloys and seals
+Solder Sn63Pb37,Solder,8.40,27,37,30,183,100,50,24.7,1.48e-7,Fair,Excellent,Excellent,10.0,14,20,No,Eutectic solder; electronics assembly
+SAC305 Lead-Free Solder,Solder,7.37,32,43,51,217,120,58,22.0,1.20e-7,Fair,Excellent,Excellent,12.0,15,22,No,RoHS compliant solder; standard electronics
+Gallium,Liquid Metal,5.91,N/A,N/A,N/A,30,30,40.6,18,2.70e-7,Good,N/A,N/A,500.0,N/A,N/A,No,Melts at room temp; cooling systems and sensors
+Mercury,Liquid Metal,13.53,N/A,N/A,N/A,-39,-39,8.3,60,9.58e-7,Good,N/A,N/A,800.0,N/A,N/A,No,Liquid at room temp; thermometers (historical)
+Uranium,Nuclear,19.07,210,480,208,1132,600,27.5,13.9,2.80e-7,Fair,Good,Poor,130.0,220,200,No,Nuclear fuel; radiation shielding (depleted)
+Zirconium 702,Nuclear,6.51,205,380,99,1855,350,22.6,5.9,4.00e-7,Excellent,Good,Good,30.0,135,200,No,Nuclear reactor cladding; chemical processing
+Hafnium,Nuclear,13.31,150,310,78,2233,1600,23.0,5.9,3.06e-7,Good,Fair,Good,1200.0,180,160,No,Nuclear control rods; highest thermal neutron cross section
+Stellite 21,Wear Alloy,8.33,635,800,240,1288,900,12.5,13.6,9.00e-7,Excellent,Very Poor,Poor,150.0,350,400,No,Cutting tools; medical implants; extreme wear
+Vitreloy 1 (Bulk MG),Amorphous Metal,6.00,1900,2000,101,700,300,3.0,10.4,1.60e-6,Good,Poor,Poor,500.0,540,1000,No,Bulk metallic glass; highest strength-to-density
+Aerogel Silica,Aerogel,0.002,N/A,N/A,N/A,N/A,500,0.015,N/A,1e15,Excellent,Very Poor,N/A,3000.0,N/A,N/A,No,Lowest density solid; best thermal insulator
+Titanium Aluminide,Intermetallic,3.76,380,480,176,1460,750,21.0,11.0,4.00e-7,Good,Poor,Poor,90.0,250,280,No,Lightweight high-temp; aircraft engines
+Nickel Aluminide,Intermetallic,5.91,310,480,179,1638,1200,23.0,12.5,2.00e-7,Good,Poor,Poor,70.0,230,240,No,High-temp oxidation resistant; gas turbines
+Waspaloy,Superalloy,8.19,795,1275,211,1340,870,11.2,12.7,1.26e-6,Excellent,Poor,Good,100.0,380,600,No,Jet engine discs; high-temp strength and creep
+Rene 41,Superalloy,8.25,980,1420,220,1315,980,11.8,13.3,1.30e-6,Excellent,Very Poor,Poor,120.0,420,650,No,Aerospace; nuclear; extreme temperature performance
