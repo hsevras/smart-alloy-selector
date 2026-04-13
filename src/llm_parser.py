@@ -20,7 +20,8 @@ class MaterialConstraints(BaseModel):
 
 class LLMInterface:
     def __init__(self):
-        api_key = os.getenv("GEMINI_API_KEY")
+        import streamlit as st
+        api_key = st.secrets["GEMINI_API_KEY"]
         self.client = genai.Client(api_key=api_key)
         self.model_name = "gemini-2.5-flash"
 
